@@ -1,0 +1,15 @@
+{
+  "name": "slack-lab",
+  "version": "0.0.1",
+  "description": "develop for test slackbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "botlab"
+  },
+  "author": "0hmmz",
+  "license": "ISC"
+}
